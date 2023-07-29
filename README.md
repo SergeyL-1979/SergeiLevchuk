@@ -36,5 +36,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ### 🔥 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SergeyL-1979&theme=dark&background=000000)](https://github.com/SergeyL-1979)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SergeyL-1979&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
