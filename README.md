@@ -15,8 +15,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SergeyL_Sergdef)
 
-### 🛠️ Languages and Tools :
 ---
+### 🛠️ Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" heigth="40"/>&nbsp;
@@ -32,3 +33,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" heigth="40"/>&nbsp;
 </div>
 
+---
+### :fire: My Stats :
+
+<div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SergeyL-1979&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
