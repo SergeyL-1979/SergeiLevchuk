@@ -10,9 +10,8 @@
 ![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-DRF-informational?style=flat&logo=drf&logoColor=white&color=blue)
+
 
 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
