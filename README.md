@@ -12,6 +12,8 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-apscheduler-informational?style=flat&logo=apscheduler&logoColor=white&color=blue)
+
 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
 ![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml)
