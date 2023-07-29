@@ -8,10 +8,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 ---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
